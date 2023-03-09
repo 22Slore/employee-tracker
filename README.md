@@ -40,7 +40,8 @@ N/A
 N/A
 
 ## Screenshots
-![Screenshot](sqlsnipping.png)
+
+![Screenshot](sqlsnipping.PNG)
 
 ## Link to Live Site
 N/A
